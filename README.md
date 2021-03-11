@@ -33,7 +33,7 @@ To use Alexa Voice Scramble:
 - Set the variables ~interfaceInput and ~interfaceOutput at the very top of the file to the 1st inputs and outputs of the interface block within the Aggregate Audio Device.
 
 6. Run the Alexa Voice Scramble:
-- Open the following page: https://hbrown1994.github.io/culture-jam-test/portal.html
+- Open the following page: https://hbrown1994.github.io/alexaVoiceScrambleWebPortal/portal.html
 - Set the Jitsi input to your audio interface
 - Set the Jitsi output to SoundFlower (2ch)
 - Execute the "alexaVoiceScramble.scd" Supercollider file by opening the file, click the "Language" menu at the top of the screen and click "Evaluate File."
